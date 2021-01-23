@@ -1,0 +1,4 @@
+1->Proje dosyasını codeblocks ya da C derleyebilecek bir ide ile açıyoruz.
+2->Dosya içerisinde bulunan metin.txt dosyasının içerisine istediğimiz bir kelime ya da cümle giriyoruz(yazılı olan bir cümle bulunmakta).
+3->Projeyi run ederek gerekli işlemler kullanıcı arayüzü olan konsola yazmaktadır.
+4->output.txtleri için projeyi çalıştırdığımız klasörün içine girerek çıktıları görebiliriz.
